@@ -1,6 +1,6 @@
 package com.nttdata.btc.wallet.app.service;
 
-import com.nttdata.btc.wallet.app.model.Wallet;
+import com.nttdata.btc.wallet.app.model.entity.Wallet;
 import com.nttdata.btc.wallet.app.model.request.WalletRequest;
 import com.nttdata.btc.wallet.app.model.request.WalletUpdateRequest;
 import reactor.core.publisher.Flux;

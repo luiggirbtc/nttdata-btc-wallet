@@ -1,4 +1,4 @@
-package com.nttdata.btc.wallet.app.model;
+package com.nttdata.btc.wallet.app.model.entity;
 
 import java.util.Date;
 

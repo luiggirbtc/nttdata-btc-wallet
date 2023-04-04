@@ -1,6 +1,6 @@
 package com.nttdata.btc.wallet.app.service.impl;
 
-import com.nttdata.btc.wallet.app.model.Wallet;
+import com.nttdata.btc.wallet.app.model.entity.Wallet;
 import com.nttdata.btc.wallet.app.model.request.WalletRequest;
 import com.nttdata.btc.wallet.app.model.request.WalletUpdateRequest;
 import com.nttdata.btc.wallet.app.repository.WalletRepository;

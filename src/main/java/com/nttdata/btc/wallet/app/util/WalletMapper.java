@@ -1,6 +1,6 @@
 package com.nttdata.btc.wallet.app.util;
 
-import com.nttdata.btc.wallet.app.model.Wallet;
+import com.nttdata.btc.wallet.app.model.entity.Wallet;
 import com.nttdata.btc.wallet.app.model.request.WalletRequest;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
